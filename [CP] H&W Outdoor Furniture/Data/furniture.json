@@ -1,0 +1,59 @@
+{
+  "Changes": [
+
+    {
+      "Action": "EditData",
+      "Target": "Data/Furniture",
+      "Entries": {
+        "HXW.OutdoorFurniture_LushTrellis": "HXW_LushTrellis/Decor/3 4/3 1/2/7500/2/{{i18n:OutdoorFurniture_LushTrellis}}/0/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+        "HXW.OutdoorFurniture_FlowerBoxTrellis": "HXW_FlowerBoxTrellis/Decor/3 4/3 1/2/7500/2/{{i18n:OutdoorFurniture_FlowerBoxTrellis}}/3/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+        "HXW.OutdoorFurniture_MedTrellis": "HXW_MedTrellis/Decor/2 4/2 1/2/7500/2/{{i18n:OutdoorFurniture_MedTrellis}}/12/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+        "HXW.OutdoorFurniture_VerdantTrellis": "HXW_VerdantTrellis/Decor/3 4/3 1/2/7500/2/{{i18n:OutdoorFurniture_VerdantTrellis}}/64/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+        "HXW.OutdoorFurniture_OvergrownTrellis": "HXW_OvergrownTrellis/Decor/3 4/3 1/2/7500/2/{{i18n:OutdoorFurniture_OvergrownTrellis}}/67/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+        "HXW.OutdoorFurniture_TrellisSeat": "HXW_TrellisSeat/bench/2 3/2 1/2/7500/2/{{i18n:OutdoorFurniture_TrellisSeat}}/192/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+        "HXW.OutdoorFurniture_TrellisSeat2": "HXW_TrellisSeat2/bench/2 3/2 1/2/7500/2/{{i18n:OutdoorFurniture_TrellisSeat}}/196/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+        "HXW.OutdoorFurniture_TrellisGate": "HXW_TrellisGate/Decor/3 4/3 1/2/4000/2/{{i18n:OutdoorFurniture_TrellisGate}}/128/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+   
+        "HXW.OutdoorFurniture_Firepit": "HXW_Firepit/Decor/1 1/1 1/1/500/2/{{i18n:OutdoorFurniture_Firepit}}/137/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+        "HXW.OutdoorFurniture_PurplePlanter": "HXW_PurplePlanter/Decor/1 1/1 1/2/500/2/{{i18n:OutdoorFurniture_PurplePlanter}}/138/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+        "HXW.OutdoorFurniture_RedPlanter": "HXW_RedPlanter/Decor/1 1/1 1/1/500/2/{{i18n:OutdoorFurniture_RedPlanter}}/139/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+        "HXW.OutdoorFurniture_BluePlanter": "HXW_BluePlanter/Decor/1 1/1 1/1/500/2/{{i18n:OutdoorFurniture_BluePlanter}}/140/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+
+        "HXW.OutdoorFurniture_LemonadeStand": "HXW_LemonadeStand/Decor/3 2/3 1/2/1000/2/{{i18n:OutdoorFurniture_LemonadeStand}}/240/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+        "HXW.OutdoorFurniture_Grill": "HXW_Grill/Decor/2 3/2 1/1/1000/2/{{i18n:OutdoorFurniture_Grill}}/147/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+        "HXW.OutdoorFurniture_Stool": "HXW_Stool/Chair/1 2/1 1/1/500/2/{{i18n:OutdoorFurniture_Stool}}/76/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+        "HXW.OutdoorFurniture_SmPinkFlowerBox": "HXW_SmPinkFlowerBox/Decor/1 2/1 1/1/500/2/{{i18n:OutdoorFurniture_SmPinkFlowerBox}}/77/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+        "HXW.OutdoorFurniture_SmBlueFlowerBox": "HXW_SmBlueFlowerBox/Decor/1 2/1 1/1/500/2/{{i18n:OutdoorFurniture_SmBlueFlowerBox}}/78/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+        "HXW.OutdoorFurniture_SmStrawberryBox": "HXW_SmStrawberryBox/Decor/1 2/1 1/1/500/2/{{i18n:OutdoorFurniture_SmStrawberryBox}}/79/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+        "HXW.OutdoorFurniture_OvergrownLog": "HXW_OvergrownLog/Decor/2 2/2 1/2/1000/2/{{i18n:OutdoorFurniture_OvergrownLog}}/153/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+
+        "HXW.OutdoorFurniture_Wheelbarrow": "HXW_Wheelbarrow/Decor/2 2/2 1/2/750/2/{{i18n:OutdoorFurniture_Wheelbarrow}}/214/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+        "HXW.OutdoorFurniture_WheelbarrowEmpty": "HXW_WheelbarrowEmpty/Decor/2 2/2 1/2/750/2/{{i18n:OutdoorFurniture_WheelbarrowEmpty}}/247/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+        
+        "HXW.OutdoorFurniture_Telescope": "HXW_Telescope/Decor/1 2/1 1/1/500/2/{{i18n:OutdoorFurniture_Telescope}}/142/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+        "HXW.OutdoorFurniture_Birdhouse": "HXW_Birdhouse/Decor/1 2/1 1/1/500/2/{{i18n:OutdoorFurniture_Birdhouse}}/143/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+        "HXW.OutdoorFurniture_LongPinkFlowerBox": "HXW_LongPinkFlowerBox/Decor/2 2/2 1/1/750/2/{{i18n:OutdoorFurniture_LongPinkFlowerBox}}/188/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+        "HXW.OutdoorFurniture_LongBlueFlowerBox": "HXW_LongBlueFlowerBox/Decor/2 2/2 1/1/750/2/{{i18n:OutdoorFurniture_LongBlueFlowerBox}}/186/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+        "HXW.OutdoorFurniture_LongStrawberryBox": "HXW_LongStrawberryBox/Decor/2 2/2 1/1/750/2/{{i18n:OutdoorFurniture_LongStrawberryBox}}/190/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+        
+        "HXW.OutdoorFurniture_SwingBench": "HXW_SwingBench/bench/3 5/3 2/1/4000/2/{{i18n:OutdoorFurniture_SwingBench}}/272/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+        "HXW.OutdoorFurniture_SwingBench2": "HXW_SwingBench2/bench/3 5/3 2/1/4000/2/{{i18n:OutdoorFurniture_SwingBench}}/275/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+        "HXW.OutdoorFurniture_PicnicTableBasket": "HXW_PicnicTableBasket/Decor/3 3/3 2/1/5000/2/{{i18n:OutdoorFurniture_PicnicTableBasket}}/220/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+        "HXW.OutdoorFurniture_OutdoorOven": "HXW_OutdoorOven/Decor/5 3/5 1/2/7500/2/{{i18n:OutdoorFurniture_OutdoorOven}}/352/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+        "HXW.OutdoorFurniture_Chair": "HXW_Chair/Chair/-1/-1/4/500/2/{{i18n:OutdoorFurniture_Chair}}/427/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+        
+        "HXW.OutdoorFurniture_OutdoorBar": "HXW_OutdoorBar/bench/4 3/4 2/2/5000/2/{{i18n:OutdoorFurniture_OutdoorBar}}/400/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+        "HXW.OutdoorFurniture_LgTable": "HXW_LgTable/Decor/3 4/3 3/2/4000/2/{{i18n:OutdoorFurniture_LgTable}}/448/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+        "HXW.OutdoorFurniture_OutdoorDiningSet": "HXW_OutdoorDiningSet/Decor/6 5/6 2/1/5000/2/{{i18n:OutdoorFurniture_OutdoorDiningSet}}/280/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+        "HXW.OutdoorFurniture_OutdoorBench": "HXW_OutdoorBench/Couch/-1/-1/4/2000/2/{{i18n:OutdoorFurniture_OutdoorBench}}/487/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+        
+        "HXW.OutdoorFurniture_TreeSwingL": "HXW_TreeSwingL/bench/6 7/6 1/1/5000/2/{{i18n:OutdoorFurniture_TreeSwingL}}/528/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+        "HXW.OutdoorFurniture_TreeSwingR": "HXW_TreeSwingR/bench/6 7/6 1/1/5000/2/{{i18n:OutdoorFurniture_TreeSwingR}}/534/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+        "HXW.OutdoorFurniture_TreeSeatLightL": "HXW_TreeSeatLightL/bench/7 7/6 1/1/8000/2/{{i18n:OutdoorFurniture_TreeSeatLightL}}/647/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+        "HXW.OutdoorFurniture_TreeSeatLightR": "HXW_TreeSeatLightR/bench/7 7/7 1/1/8000/2/{{i18n:OutdoorFurniture_TreeSeatLightR}}/640/Mods\\HXW.OutdoorFurniture\\Furniture/true/collection_hwoutdoorfurni",
+        
+      }
+    }
+
+  ]
+}

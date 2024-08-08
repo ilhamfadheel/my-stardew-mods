@@ -1,0 +1,17 @@
+{
+    "Name": "[CP] H&W Outdoor Furniture",
+    "Author": "HimeTarts and wildflourmods",
+    "Version": "2.0.2",
+    "Description": "CP Version of H&W Outdoor Furniture Set",
+    "UniqueID": "HXW.OutdoorFurniture",
+    "UpdateKeys": ["Nexus:16693"], 
+    "Dependencies": [
+        {
+            "UniqueID": "sophie.Calcifer",
+            "IsRequired": true
+        }
+    ], 
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

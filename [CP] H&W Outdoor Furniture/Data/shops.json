@@ -1,0 +1,87 @@
+{
+  "Changes": [
+
+    {
+        "LogName": "Add Outdoor Furni Catalogue Shop",
+        "Action": "EditData",
+        "Target": "Data/Shops",
+        "Entries": {
+            "HXW.OutdoorFurniSet": {
+            "PriceModifiers": null,
+            "PriceModifierMode": "Stack",
+            "Items": [
+                {
+                "Price": 0,
+                "AvailableStockLimit": "Global",
+                "AvoidRepeat": false,
+                "UseObjectDataPrice": false,
+                "IgnoreShopPriceModifiers": false,
+                "PriceModifiers": null,
+                "PriceModifierMode": "Stack",
+                "AvailableStockModifiers": null,
+                "AvailableStockModifierMode": "Stack",
+                "Condition": null,
+                "Id": "Default",
+                "ItemId": "ALL_ITEMS (F)",
+                "MinStack": -1,
+                "MaxStack": -1,
+                "Quality": -1,
+                "PerItemCondition": "ITEM_CONTEXT_TAG Target collection_hwoutdoorfurni"
+                }
+            ],
+            "CustomFields":{
+                "HappyHomeDesigner/Catalogue":"true"
+            }
+            }
+        }
+    },
+
+    {
+        "LogName": "Add Outdoor Furni Catalogue Item",
+        "Action": "EditData",
+        "Target": "Data/Furniture",
+        "Entries": {    
+            "HXW.OutdoorFurni_Catalogue": "HXW.OutdoorFurni_Catalogue/other/1 2/1 1/1/20000/2/{{i18n:OutdoorFurniture_Catalogue}}/108/Mods\\HXW.OutdoorFurniture\\Furniture/true"
+        }
+    },
+  
+    {
+        "LogName": "Add Outdoor Furni Catalogue Tile Actions",
+        "Action": "EditData",
+        "Target": "sophie.Calcifer/FurnitureActions",
+        "Entries": {
+            "(F)HXW.OutdoorFurni_Catalogue": {
+                "TileActions": [
+                    {
+                        "TileAction": "OpenShop HXW.OutdoorFurniSet"
+                    }
+                ]
+            }
+        }
+    },
+
+    {
+        "LogName": "Add Outdoor Furni Catalogue to Robin's Shop",
+        "Action": "EditData",
+        "Target": "Data/Shops",
+        "TargetField": [ "Carpenter", "Items" ],
+        "Entries": {
+            "HXW.OutdoorFurni_Catalogue": {
+                "Id": "HXW.OutdoorFurni_Catalogue",
+                "ItemId": "(F)HXW.OutdoorFurni_Catalogue",
+                "Price": 20000
+            }
+        }
+    }
+   
+  ]
+}
+  
+  
+  
+  
+  
+  
+  
+  
+  
