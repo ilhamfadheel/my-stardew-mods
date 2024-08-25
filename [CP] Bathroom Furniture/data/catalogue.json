@@ -1,0 +1,275 @@
+{
+	"Changes": [
+		//set up the behaviors for the catalogue shop interface
+		{
+			"Action": "EditData",
+			"Target": "Data/Shops",
+			"Entries": {
+				"{{CatShopId}}": {
+					"PriceModifiers": null,
+					"PriceModifierMode": "Stack",
+					"Items": [
+						{
+							"Price": 0,
+							"AvailableStockLimit": "Global",
+							"AvoidRepeat": false,
+							"UseObjectDataPrice": false,
+							"IgnoreShopPriceModifiers": false,
+							"PriceModifiers": null,
+							"PriceModifierMode": "Stack",
+							"AvailableStockModifiers": null,
+							"AvailableStockModifierMode": "Stack",
+							"Condition": null,
+							"Id": "Default",
+							"ItemId": "ALL_ITEMS (F)",
+							"MinStack": -1,
+							"MaxStack": -1,
+							"Quality": -1,
+							"PerItemCondition": "ITEM_CONTEXT_TAG Target {{CollectionName}}"
+						},
+						//walls
+			                {	
+						        "Price": 0,
+						        "UseObjectDataPrice": false,
+						        "Id": "(WP)FarmerBeans.BathroomWalls:0",
+						        "ItemId": "(WP)FarmerBeans.BathroomWalls:0"
+						    },
+						    {	
+						        "Price": 0,
+						        "UseObjectDataPrice": false,
+						        "Id": "(WP)FarmerBeans.BathroomWalls:1",
+						        "ItemId": "(WP)FarmerBeans.BathroomWalls:1"
+						    },
+						    {	
+						        "Price": 0,
+						        "UseObjectDataPrice": false,
+						        "Id": "(WP)FarmerBeans.BathroomWalls:2",
+						        "ItemId": "(WP)FarmerBeans.BathroomWalls:2"
+						    },
+						    {	
+						        "Price": 0,
+						        "UseObjectDataPrice": false,
+						        "Id": "(WP)FarmerBeans.BathroomWalls:3",
+						        "ItemId": "(WP)FarmerBeans.BathroomWalls:3"
+						    },
+						    {	
+						        "Price": 0,
+						        "UseObjectDataPrice": false,
+						        "Id": "(WP)FarmerBeans.BathroomWalls:4",
+						        "ItemId": "(WP)FarmerBeans.BathroomWalls:4"
+						    },
+						    {	
+						        "Price": 0,
+						        "UseObjectDataPrice": false,
+						        "Id": "(WP)FarmerBeans.BathroomWalls:5",
+						        "ItemId": "(WP)FarmerBeans.BathroomWalls:5"
+						    },
+						    {	
+						        "Price": 0,
+						        "UseObjectDataPrice": false,
+						        "Id": "(WP)FarmerBeans.BathroomWalls:6",
+						        "ItemId": "(WP)FarmerBeans.BathroomWalls:6"
+						    },
+						    {	
+						        "Price": 0,
+						        "UseObjectDataPrice": false,
+						        "Id": "(WP)FarmerBeans.BathroomWalls:7",
+						        "ItemId": "(WP)FarmerBeans.BathroomWalls:7"
+						    },
+						    {	
+						        "Price": 0,
+						        "UseObjectDataPrice": false,
+						        "Id": "(WP)FarmerBeans.BathroomWalls:8",
+						        "ItemId": "(WP)FarmerBeans.BathroomWalls:8"
+						    },
+						    {	
+						        "Price": 0,
+						        "UseObjectDataPrice": false,
+						        "Id": "(WP)FarmerBeans.BathroomWalls:9",
+						        "ItemId": "(WP)FarmerBeans.BathroomWalls:9"
+						    },
+						    {	
+						        "Price": 0,
+						        "UseObjectDataPrice": false,
+						        "Id": "(WP)FarmerBeans.BathroomWalls:10",
+						        "ItemId": "(WP)FarmerBeans.BathroomWalls:10"
+						    },
+						    {	
+						        "Price": 0,
+						        "UseObjectDataPrice": false,
+						        "Id": "(WP)FarmerBeans.BathroomWalls:11",
+						        "ItemId": "(WP)FarmerBeans.BathroomWalls:11"
+						    },
+						    {	
+						        "Price": 0,
+						        "UseObjectDataPrice": false,
+						        "Id": "(WP)FarmerBeans.BathroomWalls:12",
+						        "ItemId": "(WP)FarmerBeans.BathroomWalls:12"
+						    },
+						    {	
+						        "Price": 0,
+						        "UseObjectDataPrice": false,
+						        "Id": "(WP)FarmerBeans.BathroomWalls:13",
+						        "ItemId": "(WP)FarmerBeans.BathroomWalls:13"
+						    },
+						    {	
+						        "Price": 0,
+						        "UseObjectDataPrice": false,
+						        "Id": "(WP)FarmerBeans.BathroomWalls:14",
+						        "ItemId": "(WP)FarmerBeans.BathroomWalls:14"
+						    },
+						    {	
+						        "Price": 0,
+						        "UseObjectDataPrice": false,
+						        "Id": "(WP)FarmerBeans.BathroomWalls:15",
+						        "ItemId": "(WP)FarmerBeans.BathroomWalls:15"
+						    },
+						  
+						    //floors
+						    {	
+						        "Price": 0,
+						        "UseObjectDataPrice": false,
+						        "Id": "(WP)FarmerBeans.BathroomFloors:0",
+						        "ItemId": "(WP)FarmerBeans.BathroomFloors:0"
+						    },
+						    {	
+						        "Price": 0,
+						        "UseObjectDataPrice": false,
+						        "Id": "(WP)FarmerBeans.BathroomFloors:1",
+						        "ItemId": "(WP)FarmerBeans.BathroomFloors:1"
+						    },
+						    {	
+						        "Price": 0,
+						        "UseObjectDataPrice": false,
+						        "Id": "(WP)FarmerBeans.BathroomFloors:2",
+						        "ItemId": "(WP)FarmerBeans.BathroomFloors:2"
+						    },
+						    {	
+						        "Price": 0,
+						        "UseObjectDataPrice": false,
+						        "Id": "(WP)FarmerBeans.BathroomFloors:3",
+						        "ItemId": "(WP)FarmerBeans.BathroomFloors:3"
+						    },
+						    {	
+						        "Price": 0,
+						        "UseObjectDataPrice": false,
+						        "Id": "(WP)FarmerBeans.BathroomFloors:4",
+						        "ItemId": "(WP)FarmerBeans.BathroomFloors:4"
+						    },
+						     {	
+						        "Price": 0,
+						        "UseObjectDataPrice": false,
+						        "Id": "(WP)FarmerBeans.BathroomFloors:5",
+						        "ItemId": "(WP)FarmerBeans.BathroomFloors:5"
+						    },
+						    {	
+						        "Price": 0,
+						        "UseObjectDataPrice": false,
+						        "Id": "(WP)FarmerBeans.BathroomFloors:6",
+						        "ItemId": "(WP)FarmerBeans.BathroomFloors:6"
+						    },
+						    {	
+						        "Price": 0,
+						        "UseObjectDataPrice": false,
+						        "Id": "(WP)FarmerBeans.BathroomFloors:7",
+						        "ItemId": "(WP)FarmerBeans.BathroomFloors:7"
+						    },
+						    {	
+						        "Price": 0,
+						        "UseObjectDataPrice": false,
+						        "Id": "(WP)FarmerBeans.BathroomFloors:8",
+						        "ItemId": "(WP)FarmerBeans.BathroomFloors:8"
+						    },
+						    {	
+						        "Price": 0,
+						        "UseObjectDataPrice": false,
+						        "Id": "(WP)FarmerBeans.BathroomFloors:9",
+						        "ItemId": "(WP)FarmerBeans.BathroomFloors:9"
+						    },
+						     {	
+						        "Price": 0,
+						        "UseObjectDataPrice": false,
+						        "Id": "(WP)FarmerBeans.BathroomFloors:10",
+						        "ItemId": "(WP)FarmerBeans.BathroomFloors:10"
+						    },
+						    {	
+						        "Price": 0,
+						        "UseObjectDataPrice": false,
+						        "Id": "(WP)FarmerBeans.BathroomFloors:11",
+						        "ItemId": "(WP)FarmerBeans.BathroomFloors:11"
+						    },
+						    {	
+						        "Price": 0,
+						        "UseObjectDataPrice": false,
+						        "Id": "(WP)FarmerBeans.BathroomFloors:12",
+						        "ItemId": "(WP)FarmerBeans.BathroomFloors:12"
+						    },
+						    {	
+						        "Price": 0,
+						        "UseObjectDataPrice": false,
+						        "Id": "(WP)FarmerBeans.BathroomFloors:13",
+						        "ItemId": "(WP)FarmerBeans.BathroomFloors:13"
+						    },
+						    {	
+						        "Price": 0,
+						        "UseObjectDataPrice": false,
+						        "Id": "(WP)FarmerBeans.BathroomFloors:14",
+						        "ItemId": "(WP)FarmerBeans.BathroomFloors:14"
+						    }
+					],
+					"CustomFields":{
+						"HappyHomeDesigner/Catalogue":"true"
+					}
+				}
+			},
+			"When": {
+				"Separate Bathroom Catalogue": "true"
+			}
+		},
+		//Add the catalogue furniture item
+		{
+			"Action": "EditData",
+			"Target": "Data/Furniture",
+			"Entries": {    
+				"{{CatItemName}}": "{{CatItemName}}/other/1 2/1 1/1/20000/2/{{i18n:{{CatItemi18n}}}}/419/Mods\\{{ModId}}\\{{ImageAssetId}}/true"
+			},
+			"When": {
+				"Separate Bathroom Catalogue": "true"
+			}
+		},
+		//Add Catalogue Tile Actions (Calcifer)
+		{
+			"Action": "EditData",
+			"Target": "sophie.Calcifer/FurnitureActions",
+			"Entries": {
+				"(F){{CatItemName}}": {
+					"TileActions": [
+						{
+							"TileAction": "OpenShop {{CatShopId}}"
+						}
+					]
+				}
+			},
+			"When": {
+				"Separate Bathroom Catalogue": "true"
+			}
+		},
+		
+		// Add  Catalogue to Robin's Shop
+		{
+			"Action": "EditData",
+			"Target": "Data/Shops",
+			"TargetField": [ "{{CatSeller}}", "Items" ],
+			"Entries": {
+				"{{CatItemName}}": {
+					"Id": "{{CatItemName}}",
+					"ItemId": "(F){{CatItemName}}",
+					"Price": "{{CatPrice}}"
+				}
+			},
+			"When": {
+				"Separate Bathroom Catalogue": "true"
+			}
+		}
+	]
+}

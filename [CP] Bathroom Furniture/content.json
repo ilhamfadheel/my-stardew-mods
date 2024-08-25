@@ -1,0 +1,101 @@
+{
+	"Format": "2.0.2",
+	"ConfigSchema": {
+		"Separate Bathroom Catalogue": {
+			"AllowValues": "true, false",
+			"Default": "false"
+		},
+		"Bathroom Catalogue Price": {
+			"Default": "100000"
+		}
+	},
+	"DynamicTokens": [ 
+		{
+			"Name": "CatShopID",
+			"Value": "FarmerBeans.BathroomCatalogueShop"
+		},
+		{
+			"Name": "CollectionName",
+			"Value": "FarmerBeans_BathroomCatalogueCollection"
+		},
+		{
+			"Name": "CatItemName",
+			"Value": "FarmerBeans.BathroomFurnitureCatalogue"
+		},
+		//don't forget to add this value to i18n/default with the Catalogue Name
+		{
+			"Name": "CatItemi18n",
+			"Value": "BathroomFurnitureCatalogue"
+		},
+		{
+			"Name": "CatSeller",
+			"Value": "Carpenter"
+		},
+		{
+			"Name": "CatPrice",
+			"Value": "{{Bathroom Catalogue Price}}"
+		},
+		{
+			"Name": "ImageAssetId",
+			"Value": "bathroom_furniture"
+		},
+		{
+			"Name" : "ImageAssetLocation",
+			"Value" : "assets/bathroom_furniture.png"
+		},
+		//conditional if the catalogue is enabled
+		{
+			"Name": "CatalogItemFields",
+			"Value": "Mods\\{{ModId}}\\{{ImageAssetId}}"
+		},
+		{
+			"Name": "CatalogItemFields",
+			"Value": "Mods\\{{ModId}}\\{{ImageAssetId}}/true/{{CollectionName}}",
+			"When": {
+				"Separate Bathroom Catalogue": "true"
+			}
+		}
+	],
+	"Changes": [
+		//optionally set up the catalogue
+		{
+			"Action": "Include",
+			"FromFile": "data/catalogue.json",
+			"When" :{
+				"Separate Bathroom Catalogue": "true"
+			}
+		},
+		//set up furniture items
+		{
+			"Action": "Include",
+			"FromFile": "data/furniture.json"
+		},
+		//set up Wallpaper and FLooring items
+		{
+			"Action": "Include",
+			"FromFile": "data/wallpaper_flooring.json"
+		},
+		//load the image for new furniture
+		{
+			"Action" : "Load",
+			"Target": "Mods/{{ModId}}/{{ImageAssetId}}",
+			"FromFile": "assets/{{TargetWithoutPath}}.png"
+		},
+		{
+			"Action" : "Load",
+			"Target": "Mods/{{ModId}}/{{ImageAssetId}}Front",
+			"FromFile": "assets/{{TargetWithoutPath}}.png"
+		},
+		//load the image for new walls 
+		{
+			"Action" : "Load",
+			"Target": "Mods/{{ModId}}/BathroomWalls",
+			"FromFile": "assets/bathroom_walls.png"
+		},//load the image for new floors 
+		{
+			"Action" : "Load",
+			"Target": "Mods/{{ModId}}/BathroomFloors",
+			"FromFile": "assets/bathroom_floors.png"
+		}	
+	]
+}

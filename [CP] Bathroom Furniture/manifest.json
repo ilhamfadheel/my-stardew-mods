@@ -1,0 +1,17 @@
+{
+   "Name": "Bathroom Furniture for Content Patcher",
+   "Author": "FarmerBeans",
+   "Version": "2.0.0",
+   "Description": "Adds Bathroom furniture to the Vanilla Furniture Catalog",
+   "UniqueID": "FarmerBeans.BathroomFurnitureCP",
+   "UpdateKeys": ["Nexus:26354"],
+   "Dependencies": [
+        {
+            "UniqueID": "sophie.Calcifer",
+            "IsRequired": true
+        }
+    ], 
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   }
+}

@@ -1,0 +1,27 @@
+{
+	"Changes" : [
+		{
+			"Action": "EditData",
+			"Target": "Data/AdditionalWallpaperFlooring",
+			"Entries": {
+				"FarmerBeans.BathroomWalls": {
+					"ID": "FarmerBeans.BathroomWalls",
+					"Texture": "Mods\\{{ModId}}\\BathroomWalls",
+					"IsFlooring": false,
+					"Count": 16
+				}
+			}
+		},{
+			"Action": "EditData",
+			"Target": "Data/AdditionalWallpaperFlooring",
+			"Entries": {
+				"FarmerBeans.BathroomFloors": {
+					"ID": "FarmerBeans.BathroomFloors",
+					"Texture": "Mods\\{{ModId}}\\BathroomFloors",
+					"IsFlooring": true,
+					"Count": 16
+				}
+			}
+		}
+	]
+}
