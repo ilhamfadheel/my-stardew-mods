@@ -1,0 +1,11 @@
+{
+	"Name": "Additional Fish",
+	"Author": "Siber_Claw",
+	"Description": "Adds new fish",
+	"Version": "1.0.0",
+	"UniqueID": "SiberClaw.AFCP", 
+	"UpdateKeys": ["Nexus:???"],
+	"ContentPackFor": {
+		"UniqueID": "Pathoschild.ContentPatcher"
+	}
+}
