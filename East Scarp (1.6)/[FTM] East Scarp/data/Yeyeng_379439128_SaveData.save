@@ -1,5 +1,5 @@
 {
-  "WeatherForYesterday": "Wind",
+  "WeatherForYesterday": "Festival",
   "LNOSCounter": {
     "SmugglerDen": 1,
     "EastScarp_SmugglerDen forage area 1": 1,
@@ -206,7 +206,7 @@
     {
       "MapName": "EastScarp_DeepDark",
       "Name": "Stone",
-      "Tile": "11, 36",
+      "Tile": "11, 30",
       "Type": "Ore",
       "ID": 670,
       "DaysUntilExpire": 1,
@@ -217,7 +217,18 @@
     {
       "MapName": "EastScarp_DeepDark",
       "Name": "Stone",
-      "Tile": "2, 52",
+      "Tile": "5, 42",
+      "Type": "Ore",
+      "ID": 668,
+      "DaysUntilExpire": 1,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "EastScarp_DeepDark",
+      "Name": "Stone",
+      "Tile": "7, 33",
       "Type": "Ore",
       "ID": 670,
       "DaysUntilExpire": 1,
@@ -228,7 +239,40 @@
     {
       "MapName": "EastScarp_DeepDark",
       "Name": "Stone",
-      "Tile": "6, 32",
+      "Tile": "8, 35",
+      "Type": "Ore",
+      "ID": 668,
+      "DaysUntilExpire": 1,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "EastScarp_DeepDark",
+      "Name": "Emerald",
+      "Tile": "5, 17",
+      "Type": "Ore",
+      "ID": 12,
+      "DaysUntilExpire": 1,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "EastScarp_DeepDark",
+      "Name": "Copper",
+      "Tile": "9, 32",
+      "Type": "Ore",
+      "ID": 751,
+      "DaysUntilExpire": 1,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "EastScarp_DeepDark",
+      "Name": "Stone",
+      "Tile": "9, 19",
       "Type": "Ore",
       "ID": 668,
       "DaysUntilExpire": 1,
@@ -239,7 +283,40 @@
     {
       "MapName": "EastScarp_DeepDark",
       "Name": "Stone",
-      "Tile": "8, 54",
+      "Tile": "8, 12",
+      "Type": "Ore",
+      "ID": 668,
+      "DaysUntilExpire": 1,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "EastScarp_DeepDark",
+      "Name": "Emerald",
+      "Tile": "11, 39",
+      "Type": "Ore",
+      "ID": 12,
+      "DaysUntilExpire": 1,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "EastScarp_DeepDark",
+      "Name": "Emerald",
+      "Tile": "6, 26",
+      "Type": "Ore",
+      "ID": 12,
+      "DaysUntilExpire": 1,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "EastScarp_DeepDark",
+      "Name": "Stone",
+      "Tile": "8, 19",
       "Type": "Ore",
       "ID": 670,
       "DaysUntilExpire": 1,
@@ -250,117 +327,7 @@
     {
       "MapName": "EastScarp_DeepDark",
       "Name": "Stone",
-      "Tile": "31, 51",
-      "Type": "Ore",
-      "ID": 668,
-      "DaysUntilExpire": 1,
-      "SpawnTime": 600,
-      "ConfigItem": null,
-      "MonType": null
-    },
-    {
-      "MapName": "EastScarp_DeepDark",
-      "Name": "Iron",
-      "Tile": "6, 42",
-      "Type": "Ore",
-      "ID": 290,
-      "DaysUntilExpire": 1,
-      "SpawnTime": 600,
-      "ConfigItem": null,
-      "MonType": null
-    },
-    {
-      "MapName": "EastScarp_DeepDark",
-      "Name": "Aquamarine",
-      "Tile": "6, 43",
-      "Type": "Ore",
-      "ID": 14,
-      "DaysUntilExpire": 1,
-      "SpawnTime": 600,
-      "ConfigItem": null,
-      "MonType": null
-    },
-    {
-      "MapName": "EastScarp_DeepDark",
-      "Name": "Gem",
-      "Tile": "13, 30",
-      "Type": "Ore",
-      "ID": 6,
-      "DaysUntilExpire": 1,
-      "SpawnTime": 600,
-      "ConfigItem": null,
-      "MonType": null
-    },
-    {
-      "MapName": "EastScarp_DeepDark",
-      "Name": "Stone",
-      "Tile": "16, 52",
-      "Type": "Ore",
-      "ID": 668,
-      "DaysUntilExpire": 1,
-      "SpawnTime": 600,
-      "ConfigItem": null,
-      "MonType": null
-    },
-    {
-      "MapName": "EastScarp_DeepDark",
-      "Name": "Iron",
-      "Tile": "7, 43",
-      "Type": "Ore",
-      "ID": 290,
-      "DaysUntilExpire": 1,
-      "SpawnTime": 600,
-      "ConfigItem": null,
-      "MonType": null
-    },
-    {
-      "MapName": "EastScarp_DeepDark",
-      "Name": "Stone",
-      "Tile": "5, 27",
-      "Type": "Ore",
-      "ID": 668,
-      "DaysUntilExpire": 1,
-      "SpawnTime": 600,
-      "ConfigItem": null,
-      "MonType": null
-    },
-    {
-      "MapName": "EastScarp_DeepDark",
-      "Name": "Stone",
-      "Tile": "12, 37",
-      "Type": "Ore",
-      "ID": 670,
-      "DaysUntilExpire": 1,
-      "SpawnTime": 600,
-      "ConfigItem": null,
-      "MonType": null
-    },
-    {
-      "MapName": "EastScarp_DeepDark",
-      "Name": "Stone",
-      "Tile": "31, 52",
-      "Type": "Ore",
-      "ID": 668,
-      "DaysUntilExpire": 1,
-      "SpawnTime": 600,
-      "ConfigItem": null,
-      "MonType": null
-    },
-    {
-      "MapName": "EastScarp_DeepDark",
-      "Name": "Stone",
-      "Tile": "12, 36",
-      "Type": "Ore",
-      "ID": 670,
-      "DaysUntilExpire": 1,
-      "SpawnTime": 600,
-      "ConfigItem": null,
-      "MonType": null
-    },
-    {
-      "MapName": "EastScarp_DeepDark",
-      "Name": "Stone",
-      "Tile": "5, 28",
+      "Tile": "8, 53",
       "Type": "Ore",
       "ID": 668,
       "DaysUntilExpire": 1,
@@ -371,7 +338,21 @@
     {
       "MapName": "EastScarp_DeepDark",
       "Name": null,
-      "Tile": "38, 22",
+      "Tile": "34, 23",
+      "Type": "Container",
+      "ID": null,
+      "DaysUntilExpire": 1,
+      "SpawnTime": 600,
+      "ConfigItem": {
+        "Category": "barrel",
+        "Contents": []
+      },
+      "MonType": null
+    },
+    {
+      "MapName": "EastScarp_DeepDark",
+      "Name": null,
+      "Tile": "45, 37",
       "Type": "Container",
       "ID": null,
       "DaysUntilExpire": 1,
@@ -392,21 +373,7 @@
     {
       "MapName": "EastScarp_DeepDark",
       "Name": null,
-      "Tile": "35, 23",
-      "Type": "Container",
-      "ID": null,
-      "DaysUntilExpire": 1,
-      "SpawnTime": 600,
-      "ConfigItem": {
-        "Category": "barrel",
-        "Contents": []
-      },
-      "MonType": null
-    },
-    {
-      "MapName": "EastScarp_DeepDark",
-      "Name": null,
-      "Tile": "39, 21",
+      "Tile": "37, 23",
       "Type": "Container",
       "ID": null,
       "DaysUntilExpire": 1,
@@ -420,32 +387,18 @@
     {
       "MapName": "EastScarp_DeepDark",
       "Name": null,
-      "Tile": "37, 20",
+      "Tile": "38, 21",
       "Type": "Container",
       "ID": null,
       "DaysUntilExpire": 1,
       "SpawnTime": 600,
       "ConfigItem": {
-        "Category": "barrel",
-        "Contents": []
-      },
-      "MonType": null
-    },
-    {
-      "MapName": "EastScarp_DeepDark",
-      "Name": null,
-      "Tile": "43, 49",
-      "Type": "Container",
-      "ID": null,
-      "DaysUntilExpire": 1,
-      "SpawnTime": 600,
-      "ConfigItem": {
-        "Category": "barrel",
+        "Category": "crate",
         "Contents": [
           {
             "Category": "Object",
-            "Name": "Sap",
-            "Stack": 8,
+            "Name": "Cave Carrot",
+            "Stack": 1,
             "PercentChanceToSpawn": 5
           }
         ]
@@ -455,7 +408,7 @@
     {
       "MapName": "EastScarp_DeepDark",
       "Name": "Stone",
-      "Tile": "6, 45",
+      "Tile": "13, 52",
       "Type": "Ore",
       "ID": 668,
       "DaysUntilExpire": 2,
@@ -466,18 +419,7 @@
     {
       "MapName": "EastScarp_DeepDark",
       "Name": "Stone",
-      "Tile": "7, 40",
-      "Type": "Ore",
-      "ID": 670,
-      "DaysUntilExpire": 2,
-      "SpawnTime": 600,
-      "ConfigItem": null,
-      "MonType": null
-    },
-    {
-      "MapName": "EastScarp_DeepDark",
-      "Name": "Stone",
-      "Tile": "23, 52",
+      "Tile": "13, 35",
       "Type": "Ore",
       "ID": 668,
       "DaysUntilExpire": 2,
@@ -488,7 +430,7 @@
     {
       "MapName": "EastScarp_DeepDark",
       "Name": "Stone",
-      "Tile": "10, 51",
+      "Tile": "6, 28",
       "Type": "Ore",
       "ID": 668,
       "DaysUntilExpire": 2,
@@ -498,41 +440,8 @@
     },
     {
       "MapName": "EastScarp_DeepDark",
-      "Name": "Geode",
-      "Tile": "5, 14",
-      "Type": "Ore",
-      "ID": 75,
-      "DaysUntilExpire": 2,
-      "SpawnTime": 600,
-      "ConfigItem": null,
-      "MonType": null
-    },
-    {
-      "MapName": "EastScarp_DeepDark",
       "Name": "Stone",
-      "Tile": "11, 19",
-      "Type": "Ore",
-      "ID": 670,
-      "DaysUntilExpire": 2,
-      "SpawnTime": 600,
-      "ConfigItem": null,
-      "MonType": null
-    },
-    {
-      "MapName": "EastScarp_DeepDark",
-      "Name": "Stone",
-      "Tile": "6, 51",
-      "Type": "Ore",
-      "ID": 670,
-      "DaysUntilExpire": 2,
-      "SpawnTime": 600,
-      "ConfigItem": null,
-      "MonType": null
-    },
-    {
-      "MapName": "EastScarp_DeepDark",
-      "Name": "Stone",
-      "Tile": "8, 12",
+      "Tile": "5, 26",
       "Type": "Ore",
       "ID": 668,
       "DaysUntilExpire": 2,
@@ -542,10 +451,10 @@
     },
     {
       "MapName": "EastScarp_DeepDark",
-      "Name": "Geode",
-      "Tile": "25, 10",
+      "Name": "Stone",
+      "Tile": "8, 37",
       "Type": "Ore",
-      "ID": 75,
+      "ID": 668,
       "DaysUntilExpire": 2,
       "SpawnTime": 600,
       "ConfigItem": null,
@@ -554,7 +463,7 @@
     {
       "MapName": "EastScarp_DeepDark",
       "Name": "Stone",
-      "Tile": "10, 15",
+      "Tile": "8, 34",
       "Type": "Ore",
       "ID": 670,
       "DaysUntilExpire": 2,
@@ -563,48 +472,86 @@
       "MonType": null
     },
     {
-      "MapName": "EastScarp_JacobBarn",
-      "Name": "440",
-      "Tile": "6, 7",
-      "Type": "Forage",
-      "ID": "440",
-      "DaysUntilExpire": 1,
+      "MapName": "EastScarp_DeepDark",
+      "Name": "Stone",
+      "Tile": "18, 52",
+      "Type": "Ore",
+      "ID": 668,
+      "DaysUntilExpire": 2,
       "SpawnTime": 600,
       "ConfigItem": null,
       "MonType": null
     },
     {
       "MapName": "EastScarp_DeepDark",
-      "Name": null,
-      "Tile": "44, 50",
-      "Type": "Container",
-      "ID": null,
+      "Name": "Iron",
+      "Tile": "18, 10",
+      "Type": "Ore",
+      "ID": 290,
       "DaysUntilExpire": 2,
       "SpawnTime": 600,
-      "ConfigItem": {
-        "Category": "crate",
-        "Contents": []
-      },
+      "ConfigItem": null,
       "MonType": null
     },
     {
       "MapName": "EastScarp_DeepDark",
-      "Name": null,
-      "Tile": "45, 39",
-      "Type": "Container",
-      "ID": null,
+      "Name": "Stone",
+      "Tile": "14, 52",
+      "Type": "Ore",
+      "ID": 670,
       "DaysUntilExpire": 2,
       "SpawnTime": 600,
-      "ConfigItem": {
-        "Category": "crate",
-        "Contents": []
-      },
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "EastScarp_DeepDark",
+      "Name": "Stone",
+      "Tile": "30, 53",
+      "Type": "Ore",
+      "ID": 670,
+      "DaysUntilExpire": 2,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "EastScarp_DeepDark",
+      "Name": "Stone",
+      "Tile": "31, 51",
+      "Type": "Ore",
+      "ID": 670,
+      "DaysUntilExpire": 2,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "EastScarp_DeepDark",
+      "Name": "Stone",
+      "Tile": "17, 52",
+      "Type": "Ore",
+      "ID": 668,
+      "DaysUntilExpire": 2,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "EastScarp_DeepDark",
+      "Name": "Stone",
+      "Tile": "10, 16",
+      "Type": "Ore",
+      "ID": 670,
+      "DaysUntilExpire": 2,
+      "SpawnTime": 600,
+      "ConfigItem": null,
       "MonType": null
     },
     {
       "MapName": "EastScarp_DeepDark",
       "Name": "80",
-      "Tile": "39, 38",
+      "Tile": "37, 42",
       "Type": "Forage",
       "ID": "80",
       "DaysUntilExpire": 2,
